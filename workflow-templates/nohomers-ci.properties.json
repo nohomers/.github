@@ -1,0 +1,12 @@
+{
+    "name": "No Homers CI Workdlow",
+    "description": "No Homers workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ]
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile*",
+    ]
+}
