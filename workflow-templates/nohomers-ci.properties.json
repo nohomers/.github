@@ -1,9 +1,4 @@
 {
     "name": "No Homers CI Workdlow",
-    "description": "No Homers workflow template.",
-    "iconName": "example-icon",
-    "categories": [
-        "JavaScript"
-    ],
-    "filePatt
+    "description": "No Homers workflow template."
 }
