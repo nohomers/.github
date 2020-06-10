@@ -1,11 +1,5 @@
 {
     "name": "No Homers CI Workdlow",
     "description": "No Homers workflow template.",
-    "iconName": "something",
-    "categories": [
-        "JavaScript"
-    ],
-    "filePatterns": [
-        "package.json$"
-    ]
+    "iconName": "something"
 }
