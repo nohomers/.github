@@ -3,11 +3,11 @@
     "description": "Octo Organization CI workflow template.",
     "iconName": "example-icon",
     "categories": [
-        "Markdown"
+        "Go"
     ],
     "filePatterns": [
         "package.json$",
         "^Dockerfile",
-        ".*.md$"
+        ".*\\.md$"
     ]
 }
