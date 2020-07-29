@@ -1,5 +1,13 @@
 {
-    "name": "No Homers CI Workdlow",
-    "description": "No Homers workflow template.",
-    "iconName": "something"
+    "name": "Octo Organization Workflow",
+    "description": "Octo Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Markdown"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\.md$"
+    ]
 }
