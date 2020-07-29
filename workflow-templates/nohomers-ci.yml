@@ -2,9 +2,9 @@ name: Octo Organization CI
 
 on:
   push:
-    branches: [ $default_branch ]
+    branches: [ $default-branch ]
   pull_request:
-    branches: [ $default_branch ]
+    branches: [ $default-branch ]
 
 jobs:
   build:
